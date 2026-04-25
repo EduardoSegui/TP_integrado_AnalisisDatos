@@ -7,5 +7,6 @@
 
 - **Ejercicio 02:** Descargamos el data set y realizamos el análisis exploratorio de datos inicial. 
 
+## [Dia 3] - 2026-04-20
 
-
+- **Ejercicio 03:** Realizamos la limpieza de datos y el preprocesamiento inicial. Y guardamos datset. 
