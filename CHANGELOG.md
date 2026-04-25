@@ -17,3 +17,6 @@
 
 ## [Día 6] - 2026-04-23
 - **Ejercicio 06:** Porcentaje de infracciones por hora y fecha.
+
+## [Día 7] - 2026-04-24
+- **Ejercicio 07:** Conclusión acerca de los datos que contiene el dataset.
