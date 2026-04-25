@@ -14,3 +14,6 @@
 
 ## [Día 5] - 2026-04-22
 - **Ejercicio 05:** Creación de gráficos para visualizar los datos y los resultados del análisis.
+
+## [Día 6] - 2026-04-23
+- **Ejercicio 06:** Porcentaje de infracciones por hora y fecha.
