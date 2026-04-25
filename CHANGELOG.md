@@ -10,3 +10,7 @@
 ## [Dia 3] - 2026-04-20
 
 - **Ejercicio 03:** Realizamos la limpieza de datos y el preprocesamiento inicial. Y guardamos datset. 
+
+## [Dia 4] - 2026-04-21 
+
+- **Ejercicio 04:** Creacion de la clase FineAnalyzer y sus métodos para el análisis de datos.
