@@ -4,3 +4,8 @@
 # Archivos temporales de Python y Jupyter
 __pycache__/
 .ipynb_checkpoints/
+
+
+# arcchivo.ipynb
+
+*.ipynb
