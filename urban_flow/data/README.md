@@ -5,10 +5,7 @@ fueron normalizadas a formatos consistentes, y los valores inválidos fueron
 reemplazados para asegurar la integridad de los datos. Además, se limpiaron y 
 estandarizaron las ubicaciones y patentes.
 
-Tras la limpieza, se calcularon las columnas de 'exceso_velocidad_real' y 
-'exceso_velocidad', lo que permitió filtrar las filas que no representaban 
-infracciones reales. Esto resultó en la eliminación de un número significativo 
-de registros, dejando un dataset más preciso y relevante para el análisis.
+Tras la limpieza, se calcularon las columnas de 'exceso_velocidad_real' y 'exceso_velocidad', lo que permitió filtrar las filas que no representaban infracciones reales. Tras eliminar los valores nulos de las las columas relevantes el  resultó fue la eliminación de un número significativo de registros, dejando un dataset más preciso y relevante para el análisis.
 
 Los primeros análisis exploratorios mostraron:
 *   **Patentes más reincidentes:** Se identificó un ranking de patentes con 
