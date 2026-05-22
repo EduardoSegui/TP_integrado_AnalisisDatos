@@ -20,3 +20,12 @@
 
 ## [Día 7] - 2026-04-24
 - **Ejercicio 07:** Conclusión acerca de los datos que contiene el dataset.
+
+
+# PARTE 2 DEL TRABAJO PRACTICO 
+
+## [Día 1 ] - 2026-05-20
+## [Sprint 2] - En progreso
+### Ejercicio 01
+- Clonación del repositorio e inicialización de la rama `Sprint_2`.
+- Descarga y descompresión del dataset de imágenes directamente en la estructura de Git
