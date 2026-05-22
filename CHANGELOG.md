@@ -29,3 +29,7 @@
 ### Ejercicio 01
 - Clonación del repositorio e inicialización de la rama `Sprint_2`.
 - Descarga y descompresión del dataset de imágenes directamente en la estructura de Git
+
+## [Día 2 ] - 2026-05-21
+### Ejercicio 02
+- Listamos las patentes, creamos el diccionario, guardamos el json y mostramos algunas imagenes de patentes aleaotrias. 
