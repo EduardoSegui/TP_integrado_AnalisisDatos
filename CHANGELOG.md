@@ -43,8 +43,10 @@
 - Terminamos el ejercicio 04 y subimos el json con a las patentes detectadas con mas de un 80% de ratio. 
 
 
-## [Día 5 ] - 2026-05-25
+## [Día 5 ] - 2026-05-24
 ### Ejercicio 05
 - Terminamos el ejercicio 05 mostrando las metricas obtenidas. 
 
-
+## [Día 5 ] - 2026-05-24
+### Ejercicio 06
+- Conclusiones acerca de los resultados obtenidos.
