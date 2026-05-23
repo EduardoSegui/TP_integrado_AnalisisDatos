@@ -34,6 +34,10 @@
 ### Ejercicio 02
 - Listamos las patentes, creamos el diccionario, guardamos el json y mostramos algunas imagenes de patentes aleaotrias. 
 
-## [Día 2 ] - 2026-05-22
+## [Día 3 ] - 2026-05-22
 ### Ejercicio 03
 - Procesamiento de imágenes. 
+
+## [Día 4 ] - 2026-05-23
+### Ejercicio 04
+- Terminamos el ejercicio 04 y subimos el json con a las patentes detectadas con mas de un 80% de ratio. 
