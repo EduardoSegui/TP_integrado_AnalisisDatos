@@ -20,3 +20,31 @@
 
 ## [Día 7] - 2026-04-24
 - **Ejercicio 07:** Conclusión acerca de los datos que contiene el dataset.
+
+
+# PARTE 2 DEL TRABAJO PRACTICO 
+
+## [Día 1 ] - 2026-05-20
+## [Sprint 2] - En progreso
+### Ejercicio 01
+- Clonación del repositorio e inicialización de la rama `Sprint_2`.
+- Descarga y descompresión del dataset de imágenes directamente en la estructura de Git
+
+## [Día 2 ] - 2026-05-21
+### Ejercicio 02
+- Listamos las patentes, creamos el diccionario, guardamos el json y mostramos algunas imagenes de patentes aleaotrias. 
+
+## [Día 3 ] - 2026-05-22
+### Ejercicio 03
+- Procesamiento de imágenes. 
+
+## [Día 4 ] - 2026-05-23
+### Ejercicio 04
+- Terminamos el ejercicio 04 y subimos el json con a las patentes detectadas con mas de un 80% de ratio. 
+
+
+## [Día 5 ] - 2026-05-25
+### Ejercicio 05
+- Terminamos el ejercicio 05 mostrando las metricas obtenidas. 
+
+
