@@ -24,3 +24,16 @@ del proceso de limpieza y normalización, se obtuvo una base de datos más
 confiable que permitió extraer información valiosa sobre las infracciones 
 de velocidad, sentando las bases para futuras etapas de análisis 
 y toma de decisiones.
+
+
+
+### Conclusión Final del Proyecto Sprint 2
+
+El desarrollo de este sistema de validación visual para infracciones de tránsito permitió demostrar la importancia crítica del pre-procesamiento de datos no estructurados. A continuación, se resumen los puntos clave:
+
+1.  **Optimización del OCR:** Se determinó experimentalmente que la aplicación de un filtro de **suavizado Gaussiano (Blur)** fue la técnica más efectiva, permitiendo que el motor de OCR (`easyocr`) interpretara correctamente las patentes al reducir el ruido digital sin fragmentar los caracteres (como sucedió con Canny).
+2.  **Validación de Evidencia:** El sistema logró vincular exitosamente **755 infracciones** con su evidencia visual correspondiente utilizando un criterio de coincidencia (ratio) mayor al 80%, lo que dota de validez legal y administrativa al registro de multas.
+3.  **Identificación de Brechas:** El análisis reveló que **848 multas** continúan pendientes de pago, de las cuales **379 cuentan con evidencia visual válida**, lo que representa una oportunidad crítica para la gestión de cobro basada en pruebas sólidas.
+4.  **Escalabilidad:** La metodología empleada (limpieza de caracteres, cálculo de ratios de similitud y almacenamiento en JSON) permite que el sistema sea escalable para procesar volúmenes mayores de datos en futuros despliegues del sistema de radares de Vaalserberg.
+
+En conclusión, la integración de técnicas de visión computacional con el análisis de datos administrativos del Sprint 1 ha resultado en una herramienta robusta para la depuración y validación del sistema de gestión de multas urbano.
