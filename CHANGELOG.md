@@ -53,6 +53,13 @@
 
 
 # PARTE 3 DEL TRABAJO PRACTICO 
+
+## [Día 1 ] - 2026-06-04
 ## [Sprint 3] - En progreso
 ### Ejercicio 01
 - Clonación del repositorio e inicialización de la rama `Sprint_3`.
+
+## [Día 2 ] - 2026-06-05
+### Ejercicio 02
+- Migracion de los archivos a dvc y creacion de la carpeta remote_dvc. 
+
