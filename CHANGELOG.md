@@ -50,3 +50,9 @@
 ## [Día 5 ] - 2026-05-24
 ### Ejercicio 06
 - Conclusiones acerca de los resultados obtenidos.
+
+
+# PARTE 3 DEL TRABAJO PRACTICO 
+## [Sprint 3] - En progreso
+### Ejercicio 01
+- Clonación del repositorio e inicialización de la rama `Sprint_3`.
