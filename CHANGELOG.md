@@ -75,5 +75,6 @@
 ### Ejercicio 05
 - Diseñamos el modelo relacional con SQLAlchemy.
 
-
-
+## [Día 6 ] - 2026-06-09
+### Ejercicio 06
+- Creamos la base de datos y migramos los datos utilizando SQLAlchemy.
