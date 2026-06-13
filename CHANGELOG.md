@@ -86,3 +86,7 @@
 ## [Día 8 ] - 2026-06-11
 ### Ejercicio 08
 - Creación de base de datos vectorial.
+
+## [Día 9 ] - 2026-06-12
+### Ejercicio 09
+- Implementación de la función de búsqueda por patente utilizando la base de datos vectorial.
