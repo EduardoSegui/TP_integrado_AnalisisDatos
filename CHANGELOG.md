@@ -71,5 +71,9 @@
 ### Ejercicio 04
 - Creamos la funcion procesar_fila_csv. 
 
+## [Día 5 ] - 2026-06-08
+### Ejercicio 05
+- Diseñamos el modelo relacional con SQLAlchemy.
+
 
 
