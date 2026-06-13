@@ -82,3 +82,7 @@
 ## [Día 7 ] - 2026-06-10
 ### Ejercicio 07
 - Queries SQL para obtener las multas con evidencia visual válida y las multas pendientes de pago.
+
+## [Día 8 ] - 2026-06-11
+### Ejercicio 08
+- Creación de base de datos vectorial.
