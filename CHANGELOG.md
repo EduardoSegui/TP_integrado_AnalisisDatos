@@ -78,3 +78,7 @@
 ## [Día 6 ] - 2026-06-09
 ### Ejercicio 06
 - Creamos la base de datos y migramos los datos utilizando SQLAlchemy.
+
+## [Día 7 ] - 2026-06-10
+### Ejercicio 07
+- Queries SQL para obtener las multas con evidencia visual válida y las multas pendientes de pago.
