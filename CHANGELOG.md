@@ -67,3 +67,9 @@
 ### Ejercicio 03
 - Diseño del modelo logico con clases de python. 
 
+## [Día 4 ] - 2026-06-07
+### Ejercicio 04
+- Creamos la funcion procesar_fila_csv. 
+
+
+
