@@ -63,3 +63,7 @@
 ### Ejercicio 02
 - Migracion de los archivos a dvc y creacion de la carpeta remote_dvc. 
 
+## [Día 3 ] - 2026-06-06
+### Ejercicio 03
+- Diseño del modelo logico con clases de python. 
+
