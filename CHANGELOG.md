@@ -90,3 +90,7 @@
 ## [Día 9 ] - 2026-06-12
 ### Ejercicio 09
 - Implementación de la función de búsqueda por patente utilizando la base de datos vectorial.
+
+## [Día 10 ] - 2026-06-13
+### Ejercicio 10
+- Conclusiones acerca del sprint 3.
