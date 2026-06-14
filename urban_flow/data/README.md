@@ -37,3 +37,12 @@ El desarrollo de este sistema de validación visual para infracciones de tránsi
 4.  **Escalabilidad:** La metodología empleada (limpieza de caracteres, cálculo de ratios de similitud y almacenamiento en JSON) permite que el sistema sea escalable para procesar volúmenes mayores de datos en futuros despliegues del sistema de radares de Vaalserberg.
 
 En conclusión, la integración de técnicas de visión computacional con el análisis de datos administrativos del Sprint 1 ha resultado en una herramienta robusta para la depuración y validación del sistema de gestión de multas urbano.
+
+## Conclusión Final del Proyecto Sprint 3
+
+El Sprint 3 ha culminado con éxito la profesionalización del sistema de gestión de infracciones de Vaalserberg, integrando tecnologías avanzadas para asegurar la robustez, escalabilidad y eficiencia del proceso. Los logros clave incluyen:
+
+1.  **Migración a Base de Datos Relacional:** La transición de archivos CSV a una base de datos SQLite utilizando SQLAlchemy ha permitido una gestión más eficiente de los datos, con consultas complejas y relaciones entre entidades (Vehículo, Multa, Radar, Evidencia) que aseguran la integridad y consistencia de la información.
+2.  **Implementación de DVC:** La adopción de DVC para el versionado de datos ha separado el ciclo de vida del código del de los datos, permitiendo un repositorio de Git liviano y un historial de cambios en los datos auditable, lo que es crucial para la gestión de datasets pesados y archivos binarios.
+3.  **Integración de Base de Datos Vectorial:** La incorporación de ChromaDB con el modelo OpenClip ha permitido la búsqueda inteligente de vehículos a partir de imágenes de radares, cerrando la brecha entre la evidencia no estructurada y los registros estructurados en SQL, lo que mejora significativamente la capacidad de recuperación de información basada en similitud visual.
+4.  **Funcionalidad de Búsqueda Avanzada:** La función `buscar_patente_imagen` demuestra la capacidad de combinar estas tecnologías para permitir que una simple imagen desencadene una recuperación completa del historial de multas de un ciudadano, lo que representa un avance significativo en la gestión de infracciones y la eficiencia administrativa.
